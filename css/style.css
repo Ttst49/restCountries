@@ -1,0 +1,38 @@
+.countryDiv{
+    display: flex;
+}
+
+.clickable{
+    cursor: pointer;
+}
+
+body{
+    margin: 20px;
+
+}
+.search{
+    margin: 5px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+.lesPays{
+    border: black 1px solid;
+    max-width: 30vw;
+    padding: 10px;
+    border-radius: 25px;
+}
+#triggerSearchLanguage{
+    margin: 5px;
+}
+
+#triggerSearch{
+    margin: 5px;
+}
+.counter{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}
